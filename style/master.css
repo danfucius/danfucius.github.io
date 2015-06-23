@@ -1,0 +1,39 @@
+/*Styles for the master page*/
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#nav {
+    height: 3%;
+    background-color: antiquewhite;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#footer {
+
+}
+
+.nav-button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-weight: bolder;
+}
+
+/*Styles for groot*/
+
+#title {
+    text-align: center;
+}
+
+#groot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
